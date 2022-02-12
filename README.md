@@ -1,3 +1,13 @@
+# 重要 / Important Note
+**このプロジェクトは [codeforjapan/hackdays](https://github.com/codeforjapan/hackdays) に引き継がれました**
+
+**This project has been taken over by [codeforjapan/hackdays](https://github.com/codeforjapan/hackdays).**
+
+> 以下の文章はcreate-next-appで自動生成されたものです
+> 
+> The following text was generated automatically by create-next-app
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
